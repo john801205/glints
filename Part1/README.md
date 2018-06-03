@@ -1,12 +1,10 @@
 # Part 1
-All inputs are from standard input and the results are shown to the standard output.
+All inputs are from the standard input and the results are shown to the standard output.
+All programs can be executed by python xxx.py and the version of python should be larger than 3.6.
 
 ## 1. Factorial (4 minutes)
 ### Input
 Input is a single integer N, where 1 <= N <= 100.
-
-### Output
-Print the factorial of N.
 
 ## 2. Sorting (1 hour)
 ### Input
